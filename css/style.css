@@ -20,7 +20,7 @@ nav{
 	padding-right: 8%;
 }
 .logo{
-	color: white;
+	color: black;
 	font-size: 35px;
 	letter-spacing: 1px;
 	cursor: pointer;
@@ -110,8 +110,8 @@ h4{
 	background-color: #191919;
 }
 .about img{
-	height: auto;
-	width: 430px;
+	height: 50px;
+	width: 43px;
 }
 .about-text{
 	width: 550px;
